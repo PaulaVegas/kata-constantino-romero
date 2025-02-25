@@ -79,3 +79,4 @@ function imprimeInput(respuesta) {
   }
 
 document.getElementById("contenedorPreguntas").innerHTML = imprimePregunta(pregunta);
+/* https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-kata-constantino-romero.git */
